@@ -34,7 +34,9 @@ Object detecting of acrosome reaction (AR) status according to micro plasma memb
 ↑ Visible results of trained model on test dataset </br>
 </br>
 
-![picture](screenshots/table1.png) </br>
+(!) Details of Result will be uploaded after publication.
+
+<!-- ![picture](screenshots/table1.png) </br>
 </br>
 
 ![picture](screenshots/fig1.png) </br>
@@ -46,7 +48,7 @@ Object detecting of acrosome reaction (AR) status according to micro plasma memb
 </br>
 
 ![picture](screenshots/table2.png) </br>
-
+ -->
 
 ## FUTURE WORK
 * Change annotation methodology (edge)

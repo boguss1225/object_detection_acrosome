@@ -63,4 +63,6 @@ This study was supported by National Research Foundation of Korea (NRF 2019R1I1A
 
 ## RELATED WORK
 * https://github.com/boguss1225/object_detection_morphology
+* https://github.com/boguss1225/tensorflow-summary-box-addon
+* https://github.com/tensorflow/models/tree/master/research/object_detection
 * https://github.com/boguss1225/Iris-Segmentation-Keras
